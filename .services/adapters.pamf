@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lm:eCafModel xmlns:lm="http://www.progress.com/tools/caf/core/internal/logicalStructure/schema/v1.0" version="1.0">
+  <lm:serviceCollection adapterType="REST" usage="EXPOSE">
+    <lm:services description="" displayName="XpenseService" id="XpenseService" product="Progress Developer Studio for OpenEdge" serviceFolder="Expose/rest/XpenseService" serviceName="XpenseService">
+      <lm:details>
+        <lm:adapterDetails>
+          <lm:properties>
+            <lm:properties name="applicationRelativePath">/XpenseService</lm:properties>
+          </lm:properties>
+        </lm:adapterDetails>
+      </lm:details>
+      <lm:nodes id="/XpenseService_groupingNode" name="XpenseService"/>
+      <lm:propertyDetails/>
+    </lm:services>
+  </lm:serviceCollection>
+  <lm:propertyDetails>
+    <lm:propertyFileLocation>Xpense.properties</lm:propertyFileLocation>
+  </lm:propertyDetails>
+</lm:eCafModel>

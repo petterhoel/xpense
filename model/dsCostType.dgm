@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.openedge.pdt.t4bl.model:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.openedge.pdt.t4bl.model="http://com.openedge.pdt.t4bl" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmi:id="_sn7jYMQMEeWXsKxK20tpzQ" componentType="Dataset" primaryComponent="_sn8KcMQMEeWXsKxK20tpzQ">
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_sn8KcMQMEeWXsKxK20tpzQ" dimension="150,100" location="25,46">
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_vCC1ZcQMEeWXsKxK20tpzQ" target="_vCBAMMQMEeWXsKxK20tpzQ">
+      <eReference href="../appModel.t4bl#_vCC1YMQMEeWXsKxK20tpzQ"/>
+    </outgoingConnections>
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_sn68UcQMEeWXsKxK20tpzQ"/>
+  </contents>
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_vCBAMMQMEeWXsKxK20tpzQ" dimension="150,-1" location="320,223" incomingConnections="_vCC1ZcQMEeWXsKxK20tpzQ">
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_vCAZIMQMEeWXsKxK20tpzQ"/>
+  </contents>
+  <imports href="../appModel.t4bl#_Dy-t8MNuEeW1DriuV5Hzbg"/>
+</com.openedge.pdt.t4bl.model:Diagram>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<references>
+<assembly name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+<assembly name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+<assembly name="Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+<assembly name="System.Runtime.Serialization.Formatters.Soap, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="Telerik.WinControls.GridView, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+<assembly name="Telerik.WinControls, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+<assembly name="Telerik.WinControls.UI, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+<assembly name="TelerikCommon, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e"/>
+<assembly name="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+<assembly name="Infragistics4.Win.UltraWinGrid.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Shared.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="UIAutomationProvider, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+<assembly name="UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+<assembly name="Infragistics4.Win.Misc.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+<assembly name="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+<assembly name="Infragistics4.Win.UltraWinEditors.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinGrid.ExcelExport.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Documents.Excel.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinToolbars.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinTabControl.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinStatusBar.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.AppStylistSupport.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinTree.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinExplorerBar.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinListView.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinChart.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinDataSource.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinTabbedMdi.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+<assembly name="Infragistics4.Win.UltraWinSchedule.v15.1, Version=15.1.20151.2132, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb"/>
+</references>

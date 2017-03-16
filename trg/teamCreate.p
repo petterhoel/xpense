@@ -1,0 +1,3 @@
+TRIGGER PROCEDURE FOR CREATE OF team.
+
+ASSIGN team.team_id = NEXT-VALUE(seqTeamId).

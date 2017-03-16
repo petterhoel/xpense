@@ -1,0 +1,3 @@
+TRIGGER PROCEDURE FOR CREATE OF cost.
+
+ASSIGN cost.cost_id = NEXT-VALUE(seqCostId).

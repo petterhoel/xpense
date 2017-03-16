@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.openedge.pdt.t4bl.model:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.openedge.pdt.t4bl.model="http://com.openedge.pdt.t4bl" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmi:id="_oXlnIMTeEeWQJb7eYZbXFg" componentType="Dataset" primaryComponent="_oXlnIcTeEeWQJb7eYZbXFg">
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_oXlnIcTeEeWQJb7eYZbXFg" dimension="150,100" location="48,29">
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_qjdBxMTeEeWQJb7eYZbXFg" target="_qjalgMTeEeWQJb7eYZbXFg">
+      <eReference href="../appModel.t4bl#_qjcasMTeEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_5VYqZcTxEeWQJb7eYZbXFg" target="_5VW1MMTxEeWQJb7eYZbXFg">
+      <eReference href="../appModel.t4bl#_5VYqYMTxEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_JxCkhcTyEeWQJb7eYZbXFg" target="_JxBWmsTyEeWQJb7eYZbXFg">
+      <eReference href="../appModel.t4bl#_JxCkgMTyEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_SA9MRcTyEeWQJb7eYZbXFg" target="_SA7-XMTyEeWQJb7eYZbXFg">
+      <eReference href="../appModel.t4bl#_SA9MQMTyEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_oXlAEcTeEeWQJb7eYZbXFg"/>
+  </contents>
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_qjalgMTeEeWQJb7eYZbXFg" dimension="150,-1" location="48,193" incomingConnections="_qjdBxMTeEeWQJb7eYZbXFg">
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_BjfUQMTyEeWQJb7eYZbXFg" target="_5VW1MMTxEeWQJb7eYZbXFg" oppositeShown="true">
+      <eReference href="../appModel.t4bl#_BjetMMTyEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_qjZ-cMTeEeWQJb7eYZbXFg"/>
+  </contents>
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_5VW1MMTxEeWQJb7eYZbXFg" dimension="150,-1" location="330,339" incomingConnections="_5VYqZcTxEeWQJb7eYZbXFg _BjfUQMTyEeWQJb7eYZbXFg">
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_NPdzMMTyEeWQJb7eYZbXFg" target="_JxBWmsTyEeWQJb7eYZbXFg" oppositeShown="true">
+      <eReference href="../appModel.t4bl#_NPdMIMTyEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_U-6yMMTyEeWQJb7eYZbXFg" target="_SA7-XMTyEeWQJb7eYZbXFg" oppositeShown="true">
+      <eReference href="../appModel.t4bl#_U-6LIMTyEeWQJb7eYZbXFg"/>
+    </outgoingConnections>
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_5VVnEMTxEeWQJb7eYZbXFg"/>
+  </contents>
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_JxBWmsTyEeWQJb7eYZbXFg" dimension="150,-1" location="562,194" incomingConnections="_JxCkhcTyEeWQJb7eYZbXFg _NPdzMMTyEeWQJb7eYZbXFg">
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_JxBWYMTyEeWQJb7eYZbXFg"/>
+  </contents>
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_SA7-XMTyEeWQJb7eYZbXFg" dimension="150,-1" location="604,458" incomingConnections="_SA9MRcTyEeWQJb7eYZbXFg _U-6yMMTyEeWQJb7eYZbXFg">
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_SA7-IMTyEeWQJb7eYZbXFg"/>
+  </contents>
+  <imports href="../appModel.t4bl#_Dy-t8MNuEeW1DriuV5Hzbg"/>
+</com.openedge.pdt.t4bl.model:Diagram>

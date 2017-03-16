@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.openedge.pdt.t4bl.model:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.openedge.pdt.t4bl.model="http://com.openedge.pdt.t4bl" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmi:id="_D4CNPsNuEeW1DriuV5Hzbg" componentType="Dataset" primaryComponent="_D4CNP8NuEeW1DriuV5Hzbg">
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_D4CNP8NuEeW1DriuV5Hzbg" dimension="150,100" location="40,30">
+    <outgoingConnections xsi:type="com.openedge.pdt.t4bl.model:ReferenceLink" xmi:id="_FGx4VsNuEeW1DriuV5Hzbg" target="_FGx4UMNuEeW1DriuV5Hzbg">
+      <eReference href="../appModel.t4bl#_FGx4UcNuEeW1DriuV5Hzbg"/>
+    </outgoingConnections>
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_D4CNIsNuEeW1DriuV5Hzbg"/>
+  </contents>
+  <contents xsi:type="com.openedge.pdt.t4bl.model:NamedElement" xmi:id="_FGx4UMNuEeW1DriuV5Hzbg" dimension="150,-1" location="407,35" incomingConnections="_FGx4VsNuEeW1DriuV5Hzbg">
+    <eNamedElement xsi:type="ecore:EClass" href="../appModel.t4bl#_FGx4IMNuEeW1DriuV5Hzbg"/>
+  </contents>
+  <imports href="../appModel.t4bl#_Dy-t8MNuEeW1DriuV5Hzbg"/>
+</com.openedge.pdt.t4bl.model:Diagram>
